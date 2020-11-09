@@ -1,0 +1,12 @@
+movies/dataobjects/Movies.java
+ movies.dataobjects.Movies
+movies/MovieCollection.java
+ movies.MovieCollection
+movies/MovieCollectionJsonFile.java
+ movies.MovieCollectionJsonFile
+movies/dataobjects/Movie.java
+ movies.dataobjects.Movie
+movies/MovieSearchService.java
+ movies.MovieSearchService
+Application.java
+ Application
